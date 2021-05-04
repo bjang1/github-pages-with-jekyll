@@ -2,4 +2,5 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This blog will explore the things I have learnt in ICS20.
+So far I have learnt drawing with JS, and a reasonable amount of HTML
